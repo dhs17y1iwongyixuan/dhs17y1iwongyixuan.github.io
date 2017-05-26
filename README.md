@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
 <h1> All About Me</h1>
-<title> This is my website </title>
+ This is my website 
 <img src="photo.jpg"/>
 <p>
 My name is Wong Yi Xuan. I am a student of Dunman High School. Currently in 1st year high school. </p>
