@@ -13,8 +13,8 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <br>
 <p>Here are the things I love to do the most : </p> 
 <ul>
-<li></li>
-<a href="https://clashroyale.com"> Playing clash royale </a>
+<li>Playing Clash Royale</li>
+<a href="https://clashroyale.com"> Clash Royale website </a>
 <li>Learning new things</li>
 <li>Reading Adventure Books</li>
 </ul>
